@@ -11,7 +11,7 @@
 
 # MY STATUS.
 
-![Akku github stats](https://github-readme-stats.vercel.app/api?username=AkkuPY&show_icons=true&theme=midnight-purple)
+![Akku github stats](https://github-readme-stats.vercel.app/api?username=AkkuPY&show_icons=true&theme=midnight-blue)
 - ![Profile views](https://gpvc.arturio.dev/AkkuPY)
 - [![GitHub followers](https://img.shields.io/github/followers/AkkuPY.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/AkkuPY?tab=followers)
 # MOST USED LANGUAGE
