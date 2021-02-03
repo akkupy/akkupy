@@ -1,4 +1,4 @@
-# HEY, I'm Akash 👋
+# Heyy , I'm Akash 👋
 <img align='centre' src='https://media0.giphy.com/media/Lny6Rw04nsOOc/giphy.gif?cid=ecf05e47cr114b04dsq6nuni6v5kd0907p2a50srubephaqn&rid=giphy.gif' width='500"'>
 
 # MY TOOLS AND LANG.
