@@ -1,5 +1,5 @@
 # HEY, I'm Akash 👋
-<img align='centre' src='https://media1.tenor.com/images/74ba189816d37a783166e2b8931514ce/tenor.gif?itemid=16786363' width='500"'>
+<img align='centre' src='https://media0.giphy.com/media/Lny6Rw04nsOOc/giphy.gif?cid=ecf05e47cr114b04dsq6nuni6v5kd0907p2a50srubephaqn&rid=giphy.gif' width='500"'>
 
 # MY TOOLS AND LANG.
 
