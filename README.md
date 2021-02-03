@@ -1,5 +1,5 @@
 # HEY, I'm Akash 👋
-<img align='centre' src='https://tenor.com/view/code-its-fun-its-fun-code-programming-programmer-gif-19318850' width='500"'>
+<img align='centre' src='https://media1.tenor.com/images/74ba189816d37a783166e2b8931514ce/tenor.gif?itemid=16786363' width='500"'>
 
 # MY TOOLS AND LANG.
 
