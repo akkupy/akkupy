@@ -3,11 +3,11 @@
 
 # MY TOOLS AND LANG.
 
-- ![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python)&nbsp;&nbsp;
-- ![MySQL](https://img.shields.io/badge/MYSQL-ffffff?style=for-the-badge&logo=mysql)&nbsp;&nbsp;
-- ![Git](https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git)&nbsp;&nbsp;
+- ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)&nbsp;&nbsp;
+- ![MySQL](https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql)&nbsp;&nbsp;
+- ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)&nbsp;&nbsp;
 - ![GitHub](https://img.shields.io/badge/GitHUb-000000?style=for-the-badge&logo=github)&nbsp;&nbsp;
-- ![Pycharm](https://img.shields.io/badge/PYcharm-ffffff?style=for-the-badge&logo=pycharm)&nbsp;&nbsp;
+- ![Pycharm](https://img.shields.io/badge/PYcharm-000000?style=for-the-badge&logo=pycharm)&nbsp;&nbsp;
 
 # MY STATUS.
 
