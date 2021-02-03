@@ -20,12 +20,12 @@
 
 # CONNECT ME.
 
-[![telegram](https://img.shields.io/badge/STARKXD-ffffff?style=for-the-badge&logo=telegram)](https://t.me/Akku_Legend)
+[![telegram](https://img.shields.io/badge/Akku-ffffff?style=for-the-badge&logo=telegram)](https://t.me/Akku_Legend)
 
-[![Github](https://img.shields.io/badge/STARKGANG-ffffff?style=for-the-badge&logo=github)](https://github.com/AkkuPY)
+[![Github](https://img.shields.io/badge/AkkuPY-ffffff?style=for-the-badge&logo=github)](https://github.com/AkkuPY)
 
-[![StackOverFlow](https://img.shields.io/badge/STARKGANG-ffffff?style=for-the-badge&logo=stackoverflow)]()
+[![StackOverFlow](https://img.shields.io/badge/Akku-ffffff?style=for-the-badge&logo=stackoverflow)]()
 
-[![FaceBook](https://img.shields.io/badge/STARKGANGINC-ffffff?style=for-the-badge&logo=facebook)]()
+[![FaceBook](https://img.shields.io/badge/Akash-ffffff?style=for-the-badge&logo=facebook)]()
 
-[![Twitter](https://img.shields.io/badge/STARKGANGINC-ffffff?style=for-the-badge&logo=twitter)]()
+[![Twitter](https://img.shields.io/badge/Akash-ffffff?style=for-the-badge&logo=twitter)]()
