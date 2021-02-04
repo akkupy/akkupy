@@ -24,7 +24,7 @@
 
 [![Github](https://img.shields.io/badge/AkkuPY-000000?style=for-the-badge&logo=github)](https://github.com/AkkuPY)
 
-[![StackOverFlow](https://img.shields.io/badge/Akku-000000?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/15147185/akku)
+[![StackOverFlow](https://img.shields.io/badge/Akku-000000?style=for-the-badge&logo=stackoverflow)](https://stackexchange.com/users/20632703/akku)
 
 [![FaceBook](https://img.shields.io/badge/Akash-000000?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100008157606404)
 
