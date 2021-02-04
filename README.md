@@ -8,7 +8,6 @@
 - ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)&nbsp;&nbsp;
 - ![GitHub](https://img.shields.io/badge/GitHUb-000000?style=for-the-badge&logo=github)&nbsp;&nbsp;
 - ![Pycharm](https://img.shields.io/badge/PYcharm-000000?style=for-the-badge&logo=pycharm)&nbsp;&nbsp;
-- ![vscode](https://img.shields.io/badge/PYcharm-000000?style=for-the-badge&logo=vscode)&nbsp;&nbsp;
 
 # MY STATUS.
 
