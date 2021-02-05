@@ -1,7 +1,7 @@
 # Heyy , I'm Akash 👋
 <img align='centre' src='https://media0.giphy.com/media/Lny6Rw04nsOOc/giphy.gif?cid=ecf05e47cr114b04dsq6nuni6v5kd0907p2a50srubephaqn&rid=giphy.gif' width='500"'>
 
-# MY TOOLS AND LANG.
+# Languages & Tools
 
 - ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)&nbsp;&nbsp;
 - ![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=for-the-badge)&nbsp;&nbsp;
@@ -11,7 +11,7 @@
 - ![GitHub](https://img.shields.io/badge/GitHUb-000000?style=for-the-badge&logo=github)&nbsp;&nbsp;
 - ![Pycharm](https://img.shields.io/badge/PYcharm-000000?style=for-the-badge&logo=pycharm)&nbsp;&nbsp;
 
-# MY STATUS.
+# Status
 
 ![Akku github stats](https://github-readme-stats.vercel.app/api?username=AkkuPY&show_icons=true&theme=midnight-purple)
 - ![Profile views](https://gpvc.arturio.dev/AkkuPY)
@@ -20,7 +20,7 @@
 
 ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=AkkuPY&theme=blue-green)
 
-# CONNECT ME.
+# Connect Me
 
 [![telegram](https://img.shields.io/badge/Akku-000000?style=for-the-badge&logo=telegram)](https://t.me/Akku_Legend)
 
