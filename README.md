@@ -15,7 +15,7 @@
 
 ![Akku github stats](https://github-readme-stats.vercel.app/api?username=AkkuPY&show_icons=true&theme=midnight-purple)
 - ![Profile views](https://gpvc.arturio.dev/AkkuPY)
-- ![GitHub followers](https://img.shields.io/github/followers/AkkuPY?label=Follow&style=social)
+- [![GitHub followers](https://img.shields.io/github/followers/AkkuPY?label=Follow&style=social)](https://github.com/login?return_to=%2FAkkuPY)
 # MOST USED LANGUAGE
 
 ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=AkkuPY&theme=blue-green)
