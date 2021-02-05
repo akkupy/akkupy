@@ -4,6 +4,7 @@
 # MY TOOLS AND LANG.
 
 - ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)&nbsp;&nbsp;
+- ![Python](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=for-the-badge)&nbsp;&nbsp;
 - ![MySQL](https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql)&nbsp;&nbsp;
 - ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)&nbsp;&nbsp;
 - ![GitHub](https://img.shields.io/badge/GitHUb-000000?style=for-the-badge&logo=github)&nbsp;&nbsp;
