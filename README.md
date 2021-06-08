@@ -14,12 +14,12 @@
 ```bash
 npx akku
 ```
-**👆 This command line tool can be found at [npx anmol](https://github.com/AkkuPY/npx_card)**
+**👆 This command line tool can be found at [npx akku](https://github.com/AkkuPY/npx_card)**
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const akash = {
     pronouns: "He" | "Him",
     code: [ "Python","C","Javascript",  "C++",],
     askMeAbout: ["web dev", "tech", "networking", "Os"],
