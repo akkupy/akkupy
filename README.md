@@ -1,36 +1,49 @@
-# Heyy , I'm Akash 👋
-<img align='centre' src='https://media0.giphy.com/media/Lny6Rw04nsOOc/giphy.gif?cid=ecf05e47cr114b04dsq6nuni6v5kd0907p2a50srubephaqn&rid=giphy.gif' width='500"'>
+<h2>Heyy There, I'm Akash 👋! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>CSE Student at <a href="https://ceconline.edu/">College Of Engineering Chengannur</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-# Languages & Tools
+[![Twitter Follow](https://img.shields.io/twitter/follow/AkkuYT1001?label=Follow)](https://twitter.com/intent/follow?screen_name=AkkuYT1001)
+[![Linkedin: akash](https://img.shields.io/badge/-akash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akashakku/)](https://www.linkedin.com/in/akashakku/)
+![GitHub followers](https://img.shields.io/github/followers/AkkuPY098?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://I will add it/)](https://I_will_add_it/)
 
-- ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)&nbsp;&nbsp;
-- ![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=for-the-badge)&nbsp;&nbsp;
-- ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c)&nbsp;&nbsp;
-- ![Python](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=Django)&nbsp;&nbsp;
-- ![MySQL](https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql)&nbsp;&nbsp;
-- ![Html5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)&nbsp;&nbsp;
-- ![Js](https://img.shields.io/badge/JS-000000?style=for-the-badge&logo=javascript)&nbsp;&nbsp;
-- ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)&nbsp;&nbsp;
-- ![GitHub](https://img.shields.io/badge/GitHUb-000000?style=for-the-badge&logo=github)&nbsp;&nbsp;
-- ![Pycharm](https://img.shields.io/badge/PYcharm-000000?style=for-the-badge&logo=pycharm)&nbsp;&nbsp;
 
-# Status
+👇 Hit in your console or terminal to connect with me.
 
-![Akku github stats](https://github-readme-stats.vercel.app/api?username=AkkuPY&show_icons=true&theme=midnight-purple)
-- ![Profile views](https://gpvc.arturio.dev/AkkuPY)
-- [![GitHub followers](https://img.shields.io/github/followers/AkkuPY?label=Follow&style=social)](https://github.com/login?return_to=%2FAkkuPY)
-# MOST USED LANGUAGE
+```bash
+npx akku
+```
+**👆 This command line tool can be found at [npx anmol](https://github.com/AkkuPY/npx_card)**
 
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=AkkuPY&theme=blue-green)
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-# Connect Me
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: [ "Python","C","Javascript",  "C++",],
+    askMeAbout: ["web dev", "tech", "networking", "Os"],
+    technologies: {
+        backEnd: {
+            js: [""],
+            python: ["Django"]
+        },
+        frontEnd: {
+            css: [""]
+        },
+        mobileApp: {
+            native: ["Android Development(studying)"]
+        },
+        devOps: ["AWS", "Docker🐳", "Nginx"],
+        databases: ["MySql"],
+        misc: ["Firebase"]
+    },
+    architecture: [""],
+    currentFocus: "JS",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 
-[![telegram](https://img.shields.io/badge/Akku-000000?style=for-the-badge&logo=telegram)](https://t.me/Akku_Legend)
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-[![Github](https://img.shields.io/badge/AkkuPY-000000?style=for-the-badge&logo=github)](https://github.com/AkkuPY)
-
-[![StackOverFlow](https://img.shields.io/badge/Akku-000000?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/15147185/akku)
-
-[![FaceBook](https://img.shields.io/badge/Akash-000000?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100008157606404)
-
-[![Twitter](https://img.shields.io/badge/Akash-000000?style=for-the-badge&logo=twitter)](https://twitter.com/AkkuYT1001)
+---
