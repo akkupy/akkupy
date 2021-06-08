@@ -5,7 +5,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/AkkuYT1001?label=Follow)](https://twitter.com/intent/follow?screen_name=AkkuYT1001)
 [![Linkedin: akash](https://img.shields.io/badge/-akash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akashakku/)](https://www.linkedin.com/in/akashakku/)
-![GitHub followers](https://img.shields.io/github/followers/AkkuPY098?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/AkkuPY?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://I will add it/)](https://I_will_add_it/)
 
 
