@@ -4,7 +4,7 @@
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/akkupy?label=Follow)](https://twitter.com/intent/follow?screen_name=akkupy)
-[![Linkedin: akash](https://img.shields.io/badge/-akash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akashakku/)](https://www.linkedin.com/in/akashakku/)
+[![Linkedin: Akash](https://img.shields.io/badge/-Akash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akashakku/)](https://www.linkedin.com/in/akashakku/)
 ![GitHub followers](https://img.shields.io/github/followers/AkkuPY?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://akkupy.github.io/)](https://akkupy.github.io/)
 
