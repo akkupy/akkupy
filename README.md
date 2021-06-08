@@ -9,7 +9,7 @@
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://akkupy.github.io/)](https://akkupy.github.io/)
 
 
-👇 Hit in your console or terminal to connect with me.
+👇 Hit in your console or terminal to connect with me.(Under Development)
 
 ```bash
 npx akku
