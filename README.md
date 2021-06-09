@@ -5,16 +5,16 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/akkupy?label=Follow)](https://twitter.com/intent/follow?screen_name=akkupy)
 [![Linkedin: Akash](https://img.shields.io/badge/-Akash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akkupy/)](https://www.linkedin.com/in/akkupy/)
-![GitHub followers](https://img.shields.io/github/followers/AkkuPY?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/akkupy?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://akkupy.github.io/)](https://akkupy.github.io/)
 
 
-👇 Hit in your console or terminal to connect with me.(Under Development)
+👇 Hit in your console or terminal to connect with me.
 
 ```bash
 npx akkupy
 ```
-**👆 This command line tool can be found at [npx akkupy](https://github.com/AkkuPY/npx_card)**
+**👆 This command line tool can be found at [npx akkupy](https://github.com/akkupy/npx_card)**
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
