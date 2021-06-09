@@ -12,9 +12,9 @@
 👇 Hit in your console or terminal to connect with me.(Under Development)
 
 ```bash
-npx akku
+npx akkupy
 ```
-**👆 This command line tool can be found at [npx akku](https://github.com/AkkuPY/npx_card)**
+**👆 This command line tool can be found at [npx akkupy](https://github.com/AkkuPY/npx_card)**
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
