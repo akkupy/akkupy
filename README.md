@@ -22,7 +22,7 @@ npx akkupy
 const akash = {
     pronouns: "He" | "Him",
     code: [ "Python","C","Javascript","C++",],
-    askMeAbout: ["web dev", "tech", "networking", "Os"],
+    askMeAbout: ["Web Dev", "Tech", "Networking", "Os","Android"],
     technologies: {
         backEnd: {
             js: [""],
@@ -30,7 +30,7 @@ const akash = {
         },
         frontEnd: {
             css: [""]
-            html5: [""]
+            html: [""]
         },
         mobileApp: {
             native: ["Android Development(studying)"]
