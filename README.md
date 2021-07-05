@@ -33,7 +33,7 @@ const akash = {
         },
         Linux/GNU: {
            Android: ["Android Rom Development(studying)"]
-           Debain: ["Bash Commands"]
+           Debian: ["Bash Commands"]
            
         },
         devOps: ["AWS", "Docker🐳", "Nginx"],
