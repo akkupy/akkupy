@@ -22,18 +22,19 @@ npx akkupy
 const akash = {
     pronouns: "He" | "Him",
     code: [ "Python","C","Javascript","C++",],
-    askMeAbout: ["Web Dev", "Tech", "Networking", "Os","Android"],
+    askMeAbout: ["Cyber Security", "Web Dev", "Tech", "Networking", "Os", "Android"],
     technologies: {
         backEnd: {
-            js: [""],
             python: ["Django"]
         },
         frontEnd: {
             css: [""]
             html: [""]
         },
-        mobileApp: {
-            native: ["Android Development(studying)"]
+        Linux/GNU: {
+           Android: ["Android Rom Development(studying)"]
+           Debain: ["Bash Commands"]
+           
         },
         devOps: ["AWS", "Docker🐳", "Nginx"],
         databases: ["MySql"],
