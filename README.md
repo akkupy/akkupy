@@ -28,7 +28,7 @@ const akash = {
             python: ["Django","Flask"]
         },
         frontEnd: {
-            css: ["Css3"]
+            css: ["Css3"],
             html: ["Html5"]
         },
         Linux/GNU: {
