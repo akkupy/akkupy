@@ -28,8 +28,8 @@ const akash = {
             python: ["Django"]
         },
         frontEnd: {
-            css: [""]
-            html: [""]
+            css: ["css3"]
+            html: ["html5"]
         },
         Linux/GNU: {
            Android: ["Android Rom Development(studying)"]
