@@ -25,11 +25,11 @@ const akash = {
     askMeAbout: ["Cyber Security", "Web Dev", "Tech", "Networking", "Os", "Android"],
     technologies: {
         backEnd: {
-            python: ["Django"]
+            python: ["Django","Flask"]
         },
         frontEnd: {
-            css: ["css3"]
-            html: ["html5"]
+            css: ["Css3"]
+            html: ["Html5"]
         },
         Linux/GNU: {
            Android: ["Android Rom Development(studying)"]
