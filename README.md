@@ -32,7 +32,7 @@ const akash = {
             html: ["Html5"]
         },
         Linux/GNU: {
-           Android: ["Android Rom Development(studying)"]
+           Android: ["Android Rom Development(studying)"],
            Debian: ["Bash Commands"]
            
         },
