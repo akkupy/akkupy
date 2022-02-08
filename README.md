@@ -19,10 +19,10 @@ npx akkupy
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```python
-dict akash = {
+akash = {
     pronouns: "He" | "Him",
-    code: [ "Python","C","Javascript","C++",],
-    askMeAbout: ["Cyber Security", "Web Dev", "Tech", "Networking", "Os", "Android"],
+    code: [ "Python","C","Java","C++",],
+    askMeAbout: ["Cyber Security", "Web Dev", "Tech", "Networking", "Android"],
     technologies: {
         backEnd: {
             python: ["Django","Flask"]
@@ -32,16 +32,15 @@ dict akash = {
             html: ["Html5"]
         },
         Linux/GNU: {
-           Android: ["Android Rom Development(studying)"],
-           Debian: ["Bash Commands"]
+        
+           Debian: ["Bash"]
            
         },
         devOps: ["AWS", "Docker🐳", "Nginx"],
         databases: ["MySql"],
         misc: ["Firebase"]
     },
-    architecture: [""],
-    currentFocus: "JS",
+    currentFocus: "Django",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
