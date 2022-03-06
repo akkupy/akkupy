@@ -47,7 +47,7 @@ akash = {
 ```
 [![](https://github-readme-streak-stats.herokuapp.com?user=akkupy&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&currStreakLabel=CCD0DD&ring=C62A2A&dates=DDDDDD)](https://git.io/streak-stats)
 
-![](https://github-readme-stats.vercel.app/api?username=akkupya&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=akkupy&show_icons=true&theme=dark)
 
 <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkupy&layout=compact&theme=cobalt&hide_border=true" />
 
