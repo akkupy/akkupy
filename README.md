@@ -49,7 +49,7 @@ akash = {
 
 <!--<img  src="https://github-readme-stats.vercel.app/api?username=akkupy&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkupy&layout=compact&theme=cobalt&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkupy&layout=compact&theme=cobalt&hide_border=true" />
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
