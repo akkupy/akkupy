@@ -32,9 +32,9 @@ akash = {
             css: ["Css3"],
             html: ["Html5"]
         },
-        Linux/GNU: {
+        linux/GNU: {
         
-           Debian: ["Bash"],
+           debian: ["Bash"]
            
         },
         devOps: ["AWS", "Docker🐳", "Nginx"],
