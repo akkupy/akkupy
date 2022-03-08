@@ -34,7 +34,7 @@ akash = {
         },
         Linux/GNU: {
         
-           Debian: ["Bash"]
+           Debian: ["Bash"],
            
         },
         devOps: ["AWS", "Docker🐳", "Nginx"],
