@@ -21,7 +21,7 @@ npx akkupy
 
 ```python
 akash = {
-    pronouns: "He" | "Him",
+
     code: [ "Python","C","Java","C++",],
     askMeAbout: ["Cyber Security", "Web Dev", "Tech", "Networking", "Android"],
     technologies: {
