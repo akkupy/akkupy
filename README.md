@@ -21,7 +21,6 @@ npx akkupy
 
 ```python
 akash = {
-
     code: [ "Python","C","Java","C++",],
     askMeAbout: ["Cyber Security", "Web Dev", "Tech", "Networking", "Android"],
     technologies: {
