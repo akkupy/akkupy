@@ -3,7 +3,7 @@
 <p><em>CSE Student at <a href="https://ceconline.edu/">College Of Engineering Chengannur</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<!--[![Twitter Follow](https://img.shields.io/twitter/follow/akkupy?label=Follow)](https://twitter.com/intent/follow?screen_name=akkupy)-->
+[![Twitter Follow](https://img.shields.io/twitter/follow/akkupy?label=Follow)](https://twitter.com/intent/follow?screen_name=akkupy)
 [![Linkedin: Akash](https://img.shields.io/badge/-Akash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akkupy/)](https://www.linkedin.com/in/akkupy/)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://akkupy.github.io/)](https://akkupy.me)
 ![GitHub followers](https://img.shields.io/github/followers/akkupy?label=Follow&style=social)
