@@ -33,13 +33,3 @@ function show_ascii_akkupy() {
 show_ascii_akkupy
 check_internet
 
-sudo apt update
-sudo apt upgrade -y
-sudo apt install git python3 python3-virtualenv
-sudo mkdir /home/$USER/chainvault
-git clone https://github.com/tenzopy/chainVaultBackend /home/$USER/chainvault/
-virtualenv /home/$USER/chainvault/chainvaultBackend/venv
-source /home/$USER/chainvault/chainvaultBackend/venv/bin/activate
-pip install -r /home/$USER/chainvault/chainvaultBackend/requirements.txt
-
-
