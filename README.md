@@ -1,6 +1,6 @@
 <h2>Heyy There, I'm Akash 👋! </h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>CSE Student at <a href="https://ceconline.edu/">College Of Engineering Chengannur</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Freelancer & Trader!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=flat-square&logo=linktree&logoColor=white&link=https://akkupy.me)](https://akkupy.me)
